@@ -1,5 +1,10 @@
 # Lynit Coding Challenge
 
+## Purpose:
+Aim of this test is three fold:
+- evaluate your coding abilities
+- judge your technical experience
+- understand how you design a solution
 
 
 ## Instructions
@@ -10,6 +15,8 @@ In this repository, you will find a starting dataset of books to use in a file c
 
 The solution should include a scrollable view of all the books as images along with the name and author. When clicking on one of the books, it opens a view that shows the books details.
 
+Candidate should put their code on a public code repository hosted on Github. Deploy the app as a public site using an Amazon EC2 instance or something similar
+You will share with us your code and link to this deployed app.
 
 #### Stack:
 Frontend:
@@ -21,13 +28,13 @@ Backend:
 - Framework (your choice)
 - Database (your choice)
 
-You should deploy your app and connected it to a remote database. You choose how.
-
 ## What will we evaluate?
 
-1. Coding standards.
-2. Project structure.
-3. Commits and branches usage (Git)
+- Coding standard, comments and style
+- Edge case considerations
+- Overall solution design
+- Appropriate use of source control
+
 
 ### Bonus
 - Use pagination
